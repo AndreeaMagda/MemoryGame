@@ -1,0 +1,53 @@
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MemoryGameWindow.resources
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\obj\Debug\MemoryGame.GameTypeWindow.resources
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\obj\Debug\MemoryGame.SinglePlayerWindow.resources
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+D:\facultate\joc memorie\var 3\MemoryGame\MemoryGame\obj\Debug\MemoryGame.RulesWindow.resources
+C:\Users\Lenovo\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\Lenovo\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\Lenovo\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\Lenovo\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MemoryGameWindow.resources
+C:\Users\Lenovo\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.GameTypeWindow.resources
+C:\Users\Lenovo\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.RulesWindow.resources
+C:\Users\Lenovo\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.SinglePlayerWindow.resources
+C:\Users\Lenovo\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\Lenovo\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MemoryGameWindow.resources
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.GameTypeWindow.resources
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.RulesWindow.resources
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.SinglePlayerWindow.resources
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MultiplayerWindow.resources
+C:\Users\Lenovo\OneDrive\Desktop\proiect\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.ScoreWindow.resources
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe.config
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.exe
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\bin\Debug\MemoryGame.pdb
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.MemoryGameWindow.resources
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.RulesWindow.resources
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.ScoreWindow.resources
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.SinglePlayerWindow.resources
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.exe
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.pdb
+C:\Users\Lenovo\OneDrive\Desktop\proiect care merge\MemoryGame\MemoryGame\MemoryGame\obj\Debug\MemoryGame.csproj.AssemblyReference.cache

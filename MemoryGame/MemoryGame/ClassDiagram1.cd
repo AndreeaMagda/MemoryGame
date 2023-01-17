@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MemoryGame.MemoryGameWindow">
+    <Position X="6" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABhEIIAACAAABACAACAAAACAAAAAAAIAEIAAAAgAAA=</HashCode>
+      <FileName>MemoryGameWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemoryGame.CardIcon">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CardIcon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemoryGame.Distribution">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Distribution.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemoryGame.SinglePlayerWindow">
+    <Position X="8.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/xQoBAAAYGEgQBAIBTDAAgACAAAAJQAAQEAAAgEhADA=</HashCode>
+      <FileName>SinglePlayerWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemoryGame.ScoreWindow">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAgACAAABAAAQCEAAACAQAAAAAAEAAIAAQQAAA=</HashCode>
+      <FileName>ScoreWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MemoryGame.RulesWindow">
+    <Position X="6" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACQAAAAAAACAAAASAAAAAAAIAAAAAAAAgAA=</HashCode>
+      <FileName>RulesWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
